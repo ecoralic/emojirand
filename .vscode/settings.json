@@ -1,0 +1,13 @@
+{
+  "go.lintTool": "golangci-lint",
+  "go.lintFlags": [
+    "--fast"
+  ],
+  "go.testFlags": [
+    "-count=1"
+  ],
+  "gopls": {
+    "formatting.gofumpt": true,
+  },
+  "go.formatTool": "gofumpt"
+}
