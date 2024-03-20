@@ -12,8 +12,8 @@ Run examples:
 $ emojirand
 🌝
 
-$ echo "Welome home $(emojirand)"
-Welome home 🍿
+$ echo "Welcome home $(emojirand)"
+Welcome home 🍿
 
 $ git commit -m "$(emojirand) feature: Collaboration"
 [main 397f51d] 🏭 feature: Documentation
